@@ -1,0 +1,2 @@
+I am going to implement the spiral development process because I do not have the large team that a normal project requires. So,
+it would be best to implement a iterative process so I can get external help and I can ensure my system minimalizes errors.
